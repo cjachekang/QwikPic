@@ -1,3 +1,7 @@
-Instructions can go here I guess
+Instructions go here.
 
-run npm install on first Installation.
+On first installation, run:
+
+```bash
+npm install
+```
